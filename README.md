@@ -1,4 +1,4 @@
-# Vulnado - Intentionally Vulnerable Java Applicationn test test tets
+# Vulnado - Intentionally Vulnerable Java Applicationn test test tets test
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
